@@ -1,0 +1,14 @@
+html, body {
+  background-color: var(--dr-white);
+  color: var(--dr-black);
+  font-family: var(--dr-fonts);
+}
+
+body {
+  padding: 16px;
+}
+
+h1 {
+  font-size: 64px;
+}
+
